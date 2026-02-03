@@ -1,10 +1,10 @@
 # SubHunt
 
+Passive subdomain enumeration from large public DNS datasets.
+
 <p align="center">
   <img src="SubHunt.jpg" width="100%" alt="SubHunt Banner">
 </p>
-
-Passive subdomain enumeration from large public DNS datasets.
 
 ## Features
 

@@ -3,7 +3,7 @@
 Passive subdomain enumeration from large public DNS datasets.
 
 <p align="center">
-  <img src="SubHunt.jpg" width="100%" alt="SubHunt Banner">
+  <img src="subhunttt.jpg" width="100%" alt="SubHunt Banner">
 </p>
 
 ## Features

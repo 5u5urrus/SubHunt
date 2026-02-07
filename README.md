@@ -9,7 +9,6 @@ Passive subdomain enumeration from large public DNS datasets.
 ## Features
 
 * Passive only (no brute-force, no wordlists)
-* Pulls all available subdomains via pagination
 * Streams results to stdout
 * No API keys
 * Cross-platform
@@ -48,16 +47,6 @@ Pipe to another tool:
 ```bash
 python subhunt.py example.com | httpx -silent
 ```
-
-## How It Works
-
-SubHunt queries:
-
-```
-https://ip.thc.org/api/v1/lookup/subdomains
-```
-
-and automatically follows pagination until all results are collected.
 
 ## Output
 
